@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+div
+{
+border:15px solid transparent;
+width:250px;
+padding:10px 20px;
+}
+
+#round
+{
+-webkit-border-image:url(./images/border.png) 30 30 round; /* Safari 5 */
+-o-border-image:url(./images/border.png) 30 30 round; /* Opera */
+border-image:url(./images/border.png) 30 30 round;
+}
+
+#stretch
+{
+-webkit-border-image:url(./imges/border.png) 30 30 stretch; /* Safari 5 */
+-o-border-image:url(./images/border.png) 30 30 stretch; /* Opera */
+border-image:url(./images/border.png) 30 30 stretch;
+}
+</style>
+</head>
+<body>
+
+<div id="round"><img     ></div>
+<br>
+<div id="stretch">Here, the image is stretched to fill the area.</div>
+
+
+
+
+</body>
+</html>

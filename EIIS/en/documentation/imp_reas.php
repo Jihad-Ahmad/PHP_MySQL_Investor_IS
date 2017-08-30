@@ -1,0 +1,5 @@
+<?php
+
+$importance = " Why our idea? is it really important ? Does it mean a lot to the investment in Egypt?  All these questions have one answer; who didn’t ever wonder about the financial and investment future of Egypt in the current situation? <br>Our research project is titled: <i>Egypt Investor Information System (EIIS); </i>, the importance of this research is strongly emerging nowadays because after Egyptian revolution we have unstable discordances between categories of governance and opposition which may frighten investors to fund Egyptian projects, so  it is the perfect time to encourage investment in Egypt for both internal and external investors by providing all necessary information and presenting those information in such an attractive organized way to inspire investors of new opportunities and new projects to build in Egypt; according to both the benefit of investor and the need of Egyptian society.";
+
+?>
